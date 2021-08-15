@@ -4,8 +4,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:14.389000,
-https://raw.githubusercontent.com/revanthstrakz/f9/video/out0.ts
+
 #EXTINF:9.593000,
 https://raw.githubusercontent.com/revanthstrakz/f9/video/out1.ts
 #EXTINF:9.677000,
